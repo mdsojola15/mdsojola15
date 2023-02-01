@@ -1,5 +1,5 @@
 task:
-  name: "Kernel deploy.."
+  name: "Ker."
   timeout_in: 120m
   container:
       image: nexgang/ubuntu:latest
